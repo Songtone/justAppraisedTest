@@ -1,0 +1,35 @@
+.addressId {
+    text-align: left;
+    color: black;
+}
+
+.leftColumn {
+    text-align: left;
+    color: gray;
+}
+
+.rightColumn {
+    text-align: right;
+    color: gray;
+}
+
+.rightColumnLinkButton {
+    text-align: right;
+    color: #3385ff;
+}
+
+.candidateAddressComponentStyle {
+    border-width: 2px;
+    border-color: #f0f0f5;
+    border-style: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background: white;
+}
+
+.rowStyle {
+    margin-bottom: 10px;
+}

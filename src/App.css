@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: #e6e6e6;
 }
 
 .App-logo {
@@ -28,6 +29,18 @@
   color: #61dafb;
 }
 
+.addressListComponent {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+
+}
+
+.availableAddressTitle {
+  text-align: left;
+  color: #a6a6a6;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +49,4 @@
     transform: rotate(360deg);
   }
 }
+
